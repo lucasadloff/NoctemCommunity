@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noctem Community</title>
+  <link rel="stylesheet " href ="/assets/css/styles.css">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #000000;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.coluna {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+@media (max-width: 600px) {
+  .coluna {
+    width: 100%;
+  }
+}
+
+a.um:link {color:#ff0000;}
+a.um:visited {color:#0000ff;}
+a.um:hover {color:#ffcc00;}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>
+    <img src = "{{ '/assets/images/NOCTEM_LOGO_Community.png' | relative_url" alt ="LOGO NOCTEM COMMUNITY"/>
+  </h2>
+</div>
+
+
+<div class="coluna" style="background-color:#aaa;">
+  <li > <a class="um" href ="{{ 'jekyll/update/2020/10/04/servidor-minecraft.html | relative_url}}"> NOCTEM: Quem somos? </a> </li>
+</div>
+<div class="coluna" style="background-color:#bbb;">
+  <li > <a class="um" href ="{{ 'jekyll/update/2020/10/04/junte-se-ao-nosso-discord.html | relative_url}}"> Junte-se ao nosso Discord! </a> </li>
+</div>
+<div class="coluna" style="background-color:#ccc;">
+  <li > <a class="um" href ="{{ 'jekyll/update/2020/10/04/acompanhe-nossos-projetos.html | relative_url}}"> Acompanhe nossos projetos! </a> </li>
+</div>
+<div class="coluna" style="background-color:#bbb;">
+  <li > <a class="um" href ="{{ 'jekyll/update/2020/10/04/servidor-minecraft.html | relative_url}}"> Server de Minecraft - Pesadelo RPG </a> </li>
+</div>
+<div class="coluna" style="background-color:#aaa;">
+  <li ><a class="um" href ="{{ 'jekyll/update/2020/10/04/doações.html | relative_url}}"> Doações - Pesadelo RPG</li >
+</div>
+
+</body>
+</html>

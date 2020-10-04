@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Doações"
+date:   2020-10-04 12:48:50 -0500
+categories: jekyll update
+---
+
+Se você gostou de nossos projetos, pode nos apoiar através de doações. Toda contribuição é de grande ajuda para nós da NOCTEM. Somos eternamente gratos por todas as doações, que nos aproximam do nosso sonho de criar uma comunidade acolhedora, na qual todos possam se divertir, fazer novos amigos e praticar aquilo que consideramos ser as melhores qualidades do ser humano: sua capacidade de cooperar e de amar uns aos outros. 
+
+Todo valor doado será utilizado exclusivamente para a realização de projetos e aprimoramentos para nossas transmissões na Twitch. Qualquer valor além do necessário para a realização de nossos projetos será encaminhado para instituições de caridade.
+
+Doe por qualquer um dos links (As doações também serão exibidas em alertas nas nossas transmissões ao vivo):
+
+[Doações Tyo_Drak][doacao_drak]
+
+[Doações LukeSecond][doacao_luke]
+
+[doacao_drak]: https://streamlabs.com/tyo_drak/tip
+[doacao_luke]: https://streamlabs.com/lukesecond/tip
